@@ -22,16 +22,16 @@ Bem, a maioria dos cartões usa um algoritmo inventado por Hans Peter Luhn, da I
 <br></br>
 
 ## APLICAÇÕES PRÁTICAS
-1. Aplicativos de Pagamento Móvel: Integração em apps que processam pagamentos, permitindo verificar a validade dos cartões antes de concluir uma transação.
-2. E-commerce: Implementação em plataformas de comércio eletrônico para validar cartões durante o checkout, melhorando a segurança e reduzindo fraudes.
-3. Sistemas de Gestão Financeira: Uso em software de finanças pessoais ou empresariais que ajuda os usuários a gerenciar suas contas e gastos, garantindo que os números dos cartões sejam válidos.
-4. Automação de Processos Bancários: Aplicação em sistemas bancários que automatizam a verificação de cartões, garantindo que informações incorretas não sejam processadas.
-5. Desenvolvimento de APIs: Criar uma API que forneça serviços de verificação de cartões para outros aplicativos ou serviços que necessitem de validação.
-6. Verificação em Terminais de Autoatendimento: Integração em caixas eletrônicos ou terminais de autoatendimento para confirmar a validade do cartão antes de permitir transações.
-7. Sistemas de Prevenção à Fraude: Utilização em sistemas que monitoram transações financeiras em tempo real, ajudando a identificar e bloquear tentativas de fraude com cartões inválidos.
-8. Programas de Fidelidade: Implementação em sistemas que registram e validam cartões de fidelidade que utilizam formatos semelhantes aos cartões de crédito.
-9. Sistemas de Cadastro de Clientes: Verificação de cartões ao criar novos cadastros de clientes em lojas físicas ou online, assegurando que os dados coletados sejam válidos.
-10. Educação e Treinamento: Uso em cursos de programação e segurança de TI, onde os alunos aprendem sobre validação de dados e segurança em transações financeiras.
+1. **Aplicativos de Pagamento Móvel:** Integração em apps que processam pagamentos, permitindo verificar a validade dos cartões antes de concluir uma transação.
+2. **E-commerce:** Implementação em plataformas de comércio eletrônico para validar cartões durante o checkout, melhorando a segurança e reduzindo fraudes.
+3. **Sistemas de Gestão Financeira:** Uso em software de finanças pessoais ou empresariais que ajuda os usuários a gerenciar suas contas e gastos, garantindo que os números dos cartões sejam válidos.
+4. **Automação de Processos Bancários:** Aplicação em sistemas bancários que automatizam a verificação de cartões, garantindo que informações incorretas não sejam processadas.
+5. **Desenvolvimento de APIs:** Criar uma API que forneça serviços de verificação de cartões para outros aplicativos ou serviços que necessitem de validação.
+6. **Verificação em Terminais de Autoatendimento:** Integração em caixas eletrônicos ou terminais de autoatendimento para confirmar a validade do cartão antes de permitir transações.
+7. **Sistemas de Prevenção à Fraude:** Utilização em sistemas que monitoram transações financeiras em tempo real, ajudando a identificar e bloquear tentativas de fraude com cartões inválidos.
+8. **Programas de Fidelidade:** Implementação em sistemas que registram e validam cartões de fidelidade que utilizam formatos semelhantes aos cartões de crédito.
+9. **Sistemas de Cadastro de Clientes:** Verificação de cartões ao criar novos cadastros de clientes em lojas físicas ou online, assegurando que os dados coletados sejam válidos.
+10. **Educação e Treinamento:** Uso em cursos de programação e segurança de TI, onde os alunos aprendem sobre validação de dados e segurança em transações financeiras.
 <br></br>
 
 ## COMO UTILIZAR
