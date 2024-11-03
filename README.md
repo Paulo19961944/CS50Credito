@@ -10,9 +10,9 @@ Bem, a maioria dos cartões usa um algoritmo inventado por Hans Peter Luhn, da I
 <br></br>
 
 ## TIPOS DE CARTÕES
-**American Express ->** 15 digitos e começa com 34 ou 37
-**Mastercard ->** 16 dígitos e começa com 51, 52, 53, 54 ou 55
-**Visa ->** 13 a 16 dígitos e começa com o dígito 4
+**American Express ->** 15 digitos e começa com 34 ou 37<br></br>
+**Mastercard ->** 16 dígitos e começa com 51, 52, 53, 54 ou 55<br></br>
+**Visa ->** 13 a 16 dígitos e começa com o dígito 4<br></br>
 
 ## PADRÃO
 1. Multiplica todos os outros digitos por 2, começando com o penultimo digito.
@@ -43,6 +43,7 @@ Bem, a maioria dos cartões usa um algoritmo inventado por Hans Peter Luhn, da I
 4. Digite no CMD
    ```bash
    credit
+<br></br>
 
 ## CONCLUSÃO
 É um projeto com muita utilidade prática onde dá pra desenvolver em uma area muito ampla, pois tudo precisa de transação financeira, Qualquer Dúvida Estarei a Disposicão!!! Até Breve
